@@ -5,9 +5,22 @@ img {
 }
 
 header {
-    color: greenyellow;
-    background-color: rgb(89, 31, 184);
+    color: whitesmoke;
+    background-image: url("http://d3adcc0j1hezoq.cloudfront.net/wp-content/uploads/2017/11/50A0451D-35AE-4594-8780-BEFAE1420355.png"); alt="jupiters clouds as seen from a nasa probe";
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
     text-align: center;
+    line-height: 20px;
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Redressed', cursive;
+    padding: 50px;
+}
+
+sub {
+    border: groove navy 5px;
+    padding:20px;
+    display: block;
 }
 
 h1 {
