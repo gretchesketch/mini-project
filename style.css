@@ -1,0 +1,17 @@
+img {
+    height: 500px;
+    width: 500px;
+    image-rendering: auto;
+}
+
+header {
+    color: greenyellow;
+    background-color: rgb(89, 31, 184);
+    text-align: center;
+}
+
+h1 {
+    display: inline;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
